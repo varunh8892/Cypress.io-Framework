@@ -3,14 +3,16 @@ This test automation Framework is developed to automate the functionalities of t
 
 Tools and Technologies Integrated
 
-Cypress.io ( UI Automation Tool )
-JavaScript ( Programming Language)
-Mocha  (UI Automation Framework)
-Visual Studio Code (Integrated Development Environment)
-Jenkins – ( Continuous Integration Tool )
-Extent Reports – (Automation Tests Execution Results Reporting Tool)
-Page object model / Page chaining model – (Framework Design Pattern)
-Log4J - Logging
+* Cypress.io ( UI Automation Tool )
+* JavaScript ( Programming Language)
+* Mocha  (UI Automation Framework)
+* Visual Studio Code (Integrated Development Environment)
+* Jenkins – ( Continuous Integration Tool )
+* Extent Reports – (Automation Tests Execution Results Reporting Tool)
+* Page object model / Page chaining model – (Framework Design Pattern)
+* Log4J - Logging
+
+
 
 
 
