@@ -9,7 +9,7 @@ describe('Home page top Menu Navigation links test suite', () =>
 
       cy.get('[data-test=Overview-children] > :nth-child(2) > .rounded-md').should('be.visible');
 
-      cy.wait(2);
+      cy.wait(2); 
 
       cy.get('[data-test=Overview-children] > :nth-child(2) > .rounded-md').click();
 
